@@ -18,8 +18,6 @@
 
 **[Open the Indian Financial Freedom Simulator](https://iffsapp.streamlit.app/)**
 
-> The live Streamlit URL will be added after the final deployment is confirmed.
-
 ### 📂 Source Code
 
 **[View the project on GitHub](https://github.com/rohithvs5434-max/Indian-financial-freedom-simulator)**
