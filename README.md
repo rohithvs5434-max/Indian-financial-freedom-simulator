@@ -16,7 +16,7 @@
 
 ### 🚀 Live Demo
 
-**[Open the Indian Financial Freedom Simulator](YOUR_STREAMLIT_APP_URL)**
+**[Open the Indian Financial Freedom Simulator](https://iffsapp.streamlit.app/)**
 
 > The live Streamlit URL will be added after the final deployment is confirmed.
 
